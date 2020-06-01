@@ -9,10 +9,10 @@ apply plugin: 'kotlin-kapt'  // for annotation processor
 android {
     signingConfigs {
         release {
-            storeFile file('/Users/sarhunja/AndroidStudioProjects/event_application_assingment/keystore.jks')
-            storePassword 'android'
-            keyAlias = 'android'
-            keyPassword 'android'
+            storeFile file('YOUR KEYSTORE PATH')
+            storePassword '*****'
+            keyAlias = '*****'
+            keyPassword '******'
         }
     }
     compileSdkVersion 29

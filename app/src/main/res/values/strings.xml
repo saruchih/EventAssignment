@@ -7,7 +7,7 @@
     <string name="action_filte_user_music">Filter by Music </string>
 
     <string name="error_select_valid_address">Please select valid address</string>
-    <string name="eventful_api_key">f4QPF2N5d4Qd6sth</string>
+    <string name="eventful_api_key">YOUR_API_KEY</string>
     <string name="error_code_offline">You are Offline</string>
     <string name="error_sorry_no_event_found">Sorry No Event Found For This Location</string>
 </resources>
