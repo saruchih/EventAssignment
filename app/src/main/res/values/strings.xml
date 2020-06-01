@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Event Application</string>
+    <string name="error_permission_request">Please allow the permissions first</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter_address"> Filter by search address</string>
+    <string name="action_filte_user_locationr">Filter by Current Location </string>
+    <string name="action_filte_user_music">Filter by Music </string>
+
+    <string name="error_select_valid_address">Please select valid address</string>
+    <string name="eventful_api_key">f4QPF2N5d4Qd6sth</string>
+    <string name="error_code_offline">You are Offline</string>
+    <string name="error_sorry_no_event_found">Sorry No Event Found For This Location</string>
+</resources>
